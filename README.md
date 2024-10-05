@@ -33,7 +33,7 @@ According to the requirement we have
 The purpose of this project is to build a basic CRUD using python inbuilt sqllite libraries and to implement CLI operations.
 
 ## The architecture for the project is presented as follows:
-!(plot)[sql_structure.JPG]
+![plot](sql_structure.JPG)
 
 ## Sample CRUD Operations
 
